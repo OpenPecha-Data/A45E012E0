@@ -1,0 +1,19 @@
+segment_sources:
+  P0F7B0B73:
+    type: origin_type
+    relation: translation
+    language: en
+  PAD105AAA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  771d1cb01bf342dc84c2392d7a013905:
+    P0F7B0B73: 446170f771db4ca7be0bda3b596c6ee8
+    PAD105AAA: cce2306cb96d42deb14da09e866fca8b
+  9b0fdbaf6f594ad19e260c3fef27fb47:
+    P0F7B0B73: 00edf1f7eaf24448bb01c3aeb948ae78
+    PAD105AAA: c806e13ea934427682376c5232091c64
+  a83d7ce2b5c64d969a2f40f7c1f55b3d:
+    P0F7B0B73: 0d6c7a3e925c4ebba3fabc29239783a0
+    PAD105AAA: 7fd9a24e2b1f439abda812360ae28481
